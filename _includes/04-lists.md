@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Machine Learning
+* Computer Vision
+* Natural Language Processing
+
+:tada:
