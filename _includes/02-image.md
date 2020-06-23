@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image from space](https://media1.popsugar-assets.com/files/thumbor/cazUB_UxCS7Tz3Lfj_UMoy4nqpU/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2020/04/09/026/n/1922441/1da292c59bfd79f8_GettyImages-171330891/i/Pretty-Pictures-Earth.jpg)
